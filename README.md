@@ -1,6 +1,6 @@
 # **_Arch Unified Kernel Install_**
 
-Installing Arch Linux with Unified Kernel and BTRFS Sub-volumes + Encryption
+Installing Arch Linux with a Unified Kernel and BTRFS Sub-volumes + Encryption
 
 ## Special Thanks
 
